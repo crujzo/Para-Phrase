@@ -1,0 +1,8 @@
+nltk==3.4
+Vocabulary==1.0.4
+jsonschema==3.0.1
+ujson==1.35
+spacy==2.0.18
+numpy==1.15.4
+scipy==1.2.0
+sematch==1.0.4
